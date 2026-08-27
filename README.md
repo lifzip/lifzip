@@ -1,8 +1,4 @@
-
-> Recruiter-friendly proof and contact path.
-
-
-Hi, I'm **lifzip**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+Hi, I'm Alifah Nur Ramadhani. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
   <picture>
